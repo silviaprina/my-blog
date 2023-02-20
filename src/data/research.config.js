@@ -34,7 +34,7 @@ export default {
 
                         "\"[The Effect of Savings on Risk-Taking and Intertemporal Choice Behavior](https://doi.org/10.1016/j.jdeveco.2016.01.001),\" with Leandro Carvalho and Justin Sydnor, *Journal of Development Economics*, 2016, 120(5): 41-52. (Ungated version)",
 
-                        "Delivering Conditional Cash Transfers via Savings Accounts,\" *IPC-UNDP One Pager*, 2015, 292. ISSN: 2318-9118.",
+                        "\"Delivering Conditional Cash Transfers via Savings Accounts,\" *IPC-UNDP One Pager*, 2015, 292. ISSN: 2318-9118.",
 
                         "\"[Banking the Poor via Savings Accounts: Evidence from a Field Experiment](https://doi.org/10.1016/j.jdeveco.2015.01.004),\" *Journal of Development Economics*, 2015, 115: 16–31. (Ungated version)"
                     ],
