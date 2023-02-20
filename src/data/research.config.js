@@ -24,19 +24,19 @@ export default {
                     "contents": [
                         "\"Can A Budget Recording Tool Teach Financial Skills to Youth? Experimental Evidence from a Financial Diaries Study,\" with Veronica Frisancho and Alejandro Herrera, revise and resubmit Journal of Economic Behavior and Organization.",
 
-                        "\"[Saving Accounts' Interplay with Network-based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053),\" 2023, with Margherita Comola, *The Economic Journal*, 133 (649): 516\–535. (Ungated version)",
+                        "\"[Saving Accounts' Interplay with Network-based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053),\" 2023, with Margherita Comola, *The Economic Journal*, 133 (649): 516-535. (Ungated version)",
 
-                        "\"[Treatment Effect Accounting for Network Changes](https://doi.org/10.1162/rest_a_00908),\" with Margherita Comola, 2021, *Review of Economics and Statistics*, 103 (3): 597–604. (Ungated version)",
+                        "\"[Treatment Effect Accounting for Network Changes](https://doi.org/10.1162/rest_a_00908),\" with Margherita Comola, 2021, *Review of Economics and Statistics*, 103 (3): 597-604. (Ungated version)",
 
                         "\"[CCTs and Financial Access: Increasing the Bang for Each Transferred Buck?](https://doi.org/10.1111/dpr.12199)\" with Carlos Chiapa, *Development Policy Review*, 2017, 35(1): 23-38. (Ungated version)",
 
-                        "\"[The Effects of Financial Inclusion on Children’s Schooling, and Parental Aspirations and Expectations](https://doi.org/10.1002/jid.3137),\" with Carlos Chiapa and Adam Parker, *Journal of International Development*, 2016, 28(5): 683-696. (Ungated version)",
+                        "\"[The Effects of Financial Inclusion on Children's Schooling, and Parental Aspirations and Expectations](https://doi.org/10.1002/jid.3137),\" with Carlos Chiapa and Adam Parker, *Journal of International Development*, 2016, 28(5): 683-696. (Ungated version)",
 
                         "\"[The Effect of Savings on Risk-Taking and Intertemporal Choice Behavior](https://doi.org/10.1016/j.jdeveco.2016.01.001),\" with Leandro Carvalho and Justin Sydnor, *Journal of Development Economics*, 2016, 120(5): 41-52. (Ungated version)",
 
                         "\"Delivering Conditional Cash Transfers via Savings Accounts,\" *IPC-UNDP One Pager*, 2015, 292. ISSN: 2318-9118.",
 
-                        "\"[Banking the Poor via Savings Accounts: Evidence from a Field Experiment](https://doi.org/10.1016/j.jdeveco.2015.01.004),\" *Journal of Development Economics*, 2015, 115: 16–31. (Ungated version)"
+                        "\"[Banking the Poor via Savings Accounts: Evidence from a Field Experiment](https://doi.org/10.1016/j.jdeveco.2015.01.004),\" *Journal of Development Economics*, 2015, 115: 16-31. (Ungated version)"
                     ],
                 },
                 {
