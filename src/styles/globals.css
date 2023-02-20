@@ -17,11 +17,16 @@ body {
 
 
 a {
-  color: theme('colors.blue-primary');;
+  color: theme('colors.blue-primary');
   text-decoration: underline;
 }
 
 a.no-decoration {
   color: inherit;
   text-decoration: none;
+}
+
+a.no-decoration:hover {
+  color: theme('colors.blue-primary');
+  text-decoration: underline;
 }

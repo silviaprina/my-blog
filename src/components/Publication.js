@@ -1,18 +1,17 @@
 import ReactMarkdown from 'react-markdown';
 
-const Pubication = ({ publicationListTree, treeDepth = 1 }) => {
+const Pubication = ({ publicationListTree, treeDepth = 0 }) => {
     return (
-        <div className={`py-2 px-${2 * treeDepth} pr-0`}>
+        <div className={`py-2 pl-${(2 * treeDepth)}`}>
             {
                 publicationListTree.map(({ heading, children, contents }, parentIndex) => {
                     return (
-                        <div key={`tree-${parentIndex}`}>
-                            <div className={`${treeDepth === 1 ? "font-bold text-2xl pt-6" : "font-semi-bold text-xl pt-4"}`}>
+                        <div key={`tree-${parentIndex}`} className={`pl-${(2 * treeDepth)}`}>
+                            <div className={`${treeDepth === 0 ? "font-bold text-2xl pt-6" : "font-semi-bold text-xl pt-4"}`}>
                                 {heading}
                             </div>
-                            <hr />
                             {children && <Pubication publicationListTree={children} treeDepth={treeDepth + 1} />}
-                            <ul>
+                            <ul className='pl-8'>
                                 {
                                     contents?.map((content, contentIndex) => {
                                         return (
