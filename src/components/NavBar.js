@@ -6,7 +6,7 @@ const MENU_LIST = [
   { text: "HOME", path: "/" },
   { text: "TALKS", path: "/talks" },
   { text: "TEACHING", path: "/teaching" },
-  { text: "RESOURCES", path: "/resources" },
+  { text: "RESEARCH", path: "/research" },
 ];
 
 const Navbar = () => {

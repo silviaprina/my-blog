@@ -2,7 +2,7 @@ import ReactMarkdown from 'react-markdown';
 
 const Pubication = ({ publicationListTree, treeDepth = 0 }) => {
     return (
-        <div className={`py-2 pl-${(2 * treeDepth)}`}>
+        <div className={`pb-2 pl-${(2 * treeDepth)}`}>
             {
                 publicationListTree.map(({ heading, children, contents }, parentIndex) => {
                     return (
