@@ -1,7 +1,10 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import { Inter } from '@next/font/google'
 import PortfolioHeadshot from '../images/headshots/Silvia-Prina-6.jpg';
 import Navbar from './NavBar';
+
+const inter = Inter({ subsets: ['latin'] });
 
 const Layout=({ children }) => {
     return (
@@ -12,7 +15,7 @@ const Layout=({ children }) => {
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.png" />
             </Head>
-            <main>
+            <main className={inter.className}>
                 <div className="relative">
                     <div className="relative md:fixed md:w-4/12 w-0 inset-0">
                         <h1 className="absolute top-0 right-0 p-20 text-yellow text-6xl font-light text-right">

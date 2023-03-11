@@ -18,7 +18,8 @@ body {
 
 a {
   color: theme('colors.blue-primary');
-  text-decoration: underline;
+  font-weight: 600;
+  text-decoration: none;
 }
 
 a.no-decoration {
@@ -26,7 +27,7 @@ a.no-decoration {
   text-decoration: none;
 }
 
-a.no-decoration:hover {
+a:hover {
   color: theme('colors.blue-primary');
   text-decoration: underline;
 }

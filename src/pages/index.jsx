@@ -1,8 +1,9 @@
 import Image from "next/image";
-import PortfolioHeadshot from '../images/headshots/Silvia-Prina-6.jpg';
-import researchConfig from '../data/research.config.js';
 import ReactMarkdown from 'react-markdown';
 import Pubication from "@/components/Publication";
+
+import portfolioHeadshot from '../images/headshots/Silvia-Prina-6.jpg';
+import researchConfig from '../data/research.config.js';
 
 export default function Home() {
   return (
@@ -10,7 +11,7 @@ export default function Home() {
       <div className="flex justify-center">
         <Image
           className="md:w-0 my-4 md:my-0"
-          src={PortfolioHeadshot}
+          src={portfolioHeadshot}
           width={150}
           height={150}
           alt="Portfolio Headshot"
