@@ -1,7 +1,7 @@
 
 export const MENU_LIST = [
     { text: "HOME", path: "/" },
-    { text: "TALKS", path: "/talks" },
+    { text: "CV", path: "/cv" },
     { text: "TEACHING", path: "/teaching" },
     { text: "RESEARCH", path: "/research" },
   ];

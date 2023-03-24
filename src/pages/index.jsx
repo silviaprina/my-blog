@@ -17,10 +17,28 @@ export default function Home() {
         />
       </div>
       {
-        homeConfig.introductionParagraphs.map((paragraph, index)=>
+        homeConfig.introductionParagraphs.map((paragraph, index) =>
           <ReactMarkdown key={index} className="text-justify py-2 font-light" children={paragraph} />
         )
       }
+      <div className="pt-2">
+
+        <h1 className="pt-2 font-bold text-xl">
+          Contact
+        </h1>
+        <div className="pt-2">
+          {
+            homeConfig.contact.map((contactInfo, index) => <ReactMarkdown key={index} className="text-justify font-light" children={contactInfo} />
+            )
+          }
+        </div>
+
+      </div>
+
+      {/* // Name
+        // EMail
+        // Phone number
+        // {Designation} at Northeastern University */}
     </div>
   )
 }

@@ -15,4 +15,14 @@ export default {
         She holds a PhD in Economics from Boston University. Prior to joining Northeastern in 2018, Professor Prina held positions as Associate and 
         Assistant Professor of Economics at Case Western Reserve University and as Research Scholar at the InterAmerican Development Bank.`
     ],
+    contact: [
+        "Associate Professor",
+        "[PhD Program Director](https://cssh.northeastern.edu/economics/program/phd-in-applied-economics/)",
+        "[Department of Economics](https://cssh.northeastern.edu/economics/)",
+        "Northeastern University",
+        "317 Lake Hall, 360 Huntington Avenue",
+        "Boston, MA 02115-5000",
+        "Office Phone: 617.373.4301",
+        "[s.prina@northeastern.edu](mailto:s.prina@northeastern.edu)"
+    ]
 }

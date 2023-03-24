@@ -33,7 +33,9 @@ export default {
                 }
             ],
             paragraphs: [
-                "This course explores social and economic development around the world. The focus is on the following themes: income, poverty, inequality, human development, geography, growth, impact evaluation, health, education, financial markets, and trade. The first part of the course aims to understand, measure, and analyze four key elements of economic development: income, poverty, inequality, and human development. Then, the course considers geography and economic growth theory and analyzes what are the determinants of economic growth. The second part of the course focuses on major policy issues concerning health, education, credit, savings, gender differences and globalization. We study which interventions worked and did not. We draw on readings and perspectives from several academic disciplines throughout the course under one unifying methodological theme: the usefulness of empirical economic tools in assessing the arguments presented in debates about development."
+                "This course explores social and economic development around the world. The focus is on the following themes: income, poverty, inequality, human development, geography, growth, impact evaluation, health, education, financial markets, and trade.",
+                "The first part of the course aims to understand, measure, and analyze four key elements of economic development: income, poverty, inequality, and human development. Then, the course considers geography and economic growth theory and analyzes what are the determinants of economic growth.",
+                "The second part of the course focuses on major policy issues concerning health, education, credit, savings, gender differences and globalization. We study which interventions worked and did not. We draw on readings and perspectives from several academic disciplines throughout the course under one unifying methodological theme: the usefulness of empirical economic tools in assessing the arguments presented in debates about development."
              ]
         }
     ],
