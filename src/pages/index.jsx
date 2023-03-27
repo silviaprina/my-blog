@@ -21,8 +21,17 @@ export default function Home() {
           <ReactMarkdown key={index} className="text-justify py-2 font-light" children={paragraph} />
         )
       }
-      <div className="pt-2">
+      <div className="py-2">
+        <i className="fa fa-file-text pr-2 text-green-icon"></i>
+        <a href="files/Silvia_Prina_CV.pdf">Curriculum Vitae</a>
 
+        <span>{' | '}</span>
+
+        {/* TODO update research statement link */}
+        <a href="files/Silvia_Prina_CV.pdf">Research Statement</a>
+      </div>
+
+      <div className="pt-2">
         <h1 className="pt-2 font-bold text-xl">
           Contact
         </h1>
@@ -34,11 +43,6 @@ export default function Home() {
         </div>
 
       </div>
-
-      {/* // Name
-        // EMail
-        // Phone number
-        // {Designation} at Northeastern University */}
     </div>
   )
 }

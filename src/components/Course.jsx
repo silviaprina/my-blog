@@ -15,7 +15,7 @@ export default function Course({ course }) {
             <div>
                 {
                     course.additionalLinks?.map(({ text, link }, index, { length }) => (
-                        <span className='font-light' key={`Link-${index}`}>
+                        <span className='font-light' key={`Link-${course.title}-${index}`}>
                             <a href={link}>{text}</a>
                             {
                                 index !== length - 1 && <span>{' | '}</span>

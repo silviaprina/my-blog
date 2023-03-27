@@ -15,7 +15,8 @@ module.exports = {
       "dark-grey": "#808080",
       yellow:"#FCF9C6",
       "grey-yellow":"#EEEEE8",
-      'grey':"#333"
+      'grey':"#333",
+      'green-icon':"#65919A"
     },
   },
   plugins: [],
