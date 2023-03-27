@@ -18,7 +18,7 @@ export default function Home() {
       </div>
       {
         homeConfig.introductionParagraphs.map((paragraph, index) =>
-          <ReactMarkdown key={index} className="text-justify py-2 font-light" children={paragraph} />
+          <ReactMarkdown key={index} className="text-justify py-2 font-light">{paragraph}</ReactMarkdown>
         )
       }
       <div className="py-2">
@@ -37,7 +37,7 @@ export default function Home() {
         </h1>
         <div className="pt-2">
           {
-            homeConfig.contact.map((contactInfo, index) => <ReactMarkdown key={index} className="text-justify font-light" children={contactInfo} />
+            homeConfig.contact.map((contactInfo, index) => <ReactMarkdown key={index} className="text-justify font-light">{contactInfo}</ReactMarkdown>
             )
           }
         </div>
