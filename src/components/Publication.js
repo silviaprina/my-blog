@@ -15,15 +15,13 @@ const Pubication = ({ publicationListTree, treeDepth = 0 }) => {
                                 {
                                     contents?.map(({ title, author, journal }, contentIndex) => {
                                         return (
-                                            <div className='py-2'>
+                                            <div className='py-2' key={contentIndex}>
+                                                {/* eslint-disable-next-line */}
                                                 <ReactMarkdown className="text-justify font-light" children={title} />
                                                 <div className='font-semi-bold'>{author}</div>
+                                                {/* eslint-disable-next-line */}
                                                 <ReactMarkdown className="text-justify font-light" children={journal} />
                                             </div>
-                                            // <li key={`content-${parentIndex}-${contentIndex}`} className="text-grey">
-                                            //     {/* eslint-disable-next-line */}
-                                            //     <ReactMarkdown className="text-justify py-2 font-light" children={title} />
-                                            // </li>
                                         )
                                     })
 
