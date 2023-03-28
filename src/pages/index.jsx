@@ -27,17 +27,14 @@ export default function Home() {
 
         <span>{' | '}</span>
 
-        {/* TODO update research statement link */}
-        <a href="files/Silvia_Prina_CV.pdf">Research Statement</a>
+        <a href="files/Silvia_Prina_ResearchStatement.pdf">Research Statement</a>
       </div>
 
       <div className="pt-2">
-        <h1 className="pt-2 font-bold text-xl">
-          Contact
-        </h1>
         <div className="pt-2">
           {
-            homeConfig.contact.map((contactInfo, index) => <ReactMarkdown key={index} className="text-justify font-light">{contactInfo}</ReactMarkdown>
+            homeConfig.contact.map((contactInfo, index) => <ReactMarkdown key={index} className="text-justify font-light" children={contactInfo
+            } />
             )
           }
         </div>
