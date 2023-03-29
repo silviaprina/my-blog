@@ -99,7 +99,7 @@ export default {
                 {
                     "title": "[Do Health Risk Assessments Change Eating Habits at the Workplace?](https://doi.org/10.1016/j.jebo.2020.02.004)",
                     "author": "with Mariana Carrera and Ayesha Hasan",
-                    "journal": "*Journal of Economic Behavior and Organization*, 2020, 172: 236-246 ([Ungated version](/files/ungated-papers/publications/CHP_JEBO_2020.pdf)))"
+                    "journal": "*Journal of Economic Behavior and Organization*, 2020, 172: 236-246 ([Ungated version](/files/ungated-papers/publications/CHP_JEBO_2020.pdf))"
                 },
                 {
                     "title": "[The Effect of Social Programs and Exposure to Professionals on the Educational Aspirations of the Poor](https://doi.org/10.1016/j.econedurev.2012.05.006)",
