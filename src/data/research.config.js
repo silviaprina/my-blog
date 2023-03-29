@@ -104,7 +104,7 @@ export default {
                 {
                     "title": "[The Effect of Social Programs and Exposure to Professionals on the Educational Aspirations of the Poor](https://doi.org/10.1016/j.econedurev.2012.05.006)",
                     "author": "with Carlos Chiapa and José Luis Garrido",
-                    "journal": "*Economics of Education Review*, 2012, 3(1): 778-798 ([Ungated version](/files/ungated-papers/publications/PR_JHE_2014.pdf))"
+                    "journal": "*Economics of Education Review*, 2012, 3(1): 778-798 ([Ungated version](/files/ungated-papers/publications/CPG_EER_2012.pdf))"
                 },
                 {
                     "title": "[A Theory of Occupational Choice with Endogenous Fertility](https://www.aeaweb.org/articles?id=10.1257/mic.4.4.1)",
