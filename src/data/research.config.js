@@ -109,7 +109,7 @@ export default {
                 {
                     "title": "[A Theory of Occupational Choice with Endogenous Fertility](https://www.aeaweb.org/articles?id=10.1257/mic.4.4.1)",
                     "author": "with Dilip Mookherjee and Debraj Ray",
-                    "journal": "*American Economic Journal - Microeconomics*, 2012, 4(4): 1-34 ([Ungated version]())"
+                    "journal": "*American Economic Journal - Microeconomics*, 2012, 4(4): 1-34 ([Ungated version](/files/ungated-papers/publications/MPR_AEJ-Micro_2012.pdf))"
                 }
             ],
         },
