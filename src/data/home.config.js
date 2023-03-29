@@ -1,6 +1,6 @@
 export default {
     introductionParagraphs: [
-        `Silvia Prina is a Associate Professor in the department of [Economics](https://cssh.northeastern.edu/economics/) at [Northeastern University](https://www.northeastern.edu/).
+        `Silvia Prina is an Associate Professor in the department of [Economics](https://cssh.northeastern.edu/economics/) at [Northeastern University](https://www.northeastern.edu/).
         She is a development economist whose research focuses on understanding the behavior of the poor for the purpose of uncovering potential strategies to improve their lives. 
         Her research interests are centered on financial access, networks and spillover effects. 
         The bulk of her work uses field experiments and rigorous empirical methods to study the impact of financial access on the welfare and decision making of the poor. Her research highlights the role of networks and peers in shaping economic decisions and develops new empirical methods in this context.`,
