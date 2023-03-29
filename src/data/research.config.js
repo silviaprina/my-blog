@@ -39,7 +39,8 @@ export default {
                     "journal": "*Journal of Development Economics*, 2016, 120(5): 41-52 ([Ungated version](/files/ungated-papers/publications/CPS_JDE_2016.pdf))"
                 },
                 {
-                    "title": "Delivering Conditional Cash Transfers via Savings Account",
+                    "title": "[Delivering Conditional Cash Transfers via Savings Account](/files/ungated-papers/publications/CP_IPC_UNDP_2015.pdf)",
+                    "author": "with Carlos Chiapa",
                     "journal": "*IPC-UNDP* One Pager, 2015, 292 ISSN: 2318-9118"
                 },
                 {
