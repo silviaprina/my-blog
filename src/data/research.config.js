@@ -19,32 +19,32 @@ export default {
                     "journal": "conditional acceptance, *Oxford Review of Applied Economics*"
                 },
                 {
-                    "title": "[Migration, Money Transfers and Mobile Money: Evidence from Niger](/files/ungated-papers/publications/APW_AER_P&P_2020.pdf)",
+                    "title": "[Migration, Money Transfers and Mobile Money: Evidence from Niger](https://aeaweb.org/articles?id=10.1257/pandp.20201085)",
                     "author": "with Jenny Aker and Jamilah Welch",
-                    "journal": "*American Economic Review, Papers & Proceedings*, 2020, 110: 589-93 (Ungated version)"
+                    "journal": "*American Economic Review, Papers & Proceedings*, 2020, 110: 589-93 ([Ungated version](/files/ungated-papers/publications/APW_AER_P&P_2020.pdf))"
                 },
                 {
-                    "title": "[CCTs and Financial Access: Increasing the Bang for Each Transferred Buck?](/files/ungated-papers/publications/CP_DPR_2017.pdf)",
+                    "title": "[CCTs and Financial Access: Increasing the Bang for Each Transferred Buck?](https://doi.org/10.1111/dpr.12199)",
                     "author": "with Carlos Chiapa",
-                    "journal": "*Development Policy Review*, 2017, 35(1): 23-38 (Ungated version)"
+                    "journal": "*Development Policy Review*, 2017, 35(1): 23-38 ([Ungated version](/files/ungated-papers/publications/CP_DPR_2017.pdf))"
                 },
                 {
-                    "title": "[The Effects of Financial Inclusion on Children's Schooling, and Parental Aspirations and Expectations](/files/ungated-papers/publications/CPP_JID_2016.pdf)",
+                    "title": "[The Effects of Financial Inclusion on Children's Schooling, and Parental Aspirations and Expectations](https://doi.org/10.1002/jid.3137)",
                     "author": "with Carlos Chiapa and Adam Parker",
-                    "journal": "*Journal of International Development*, 2016, 28(5): 683-696 (Ungated version)"
+                    "journal": "*Journal of International Development*, 2016, 28(5): 683-696 ([Ungated version](/files/ungated-papers/publications/CPP_JID_2016.pdf))"
                 },
                 {
                     "title": "[The Effect of Savings on Risk-Taking and Intertemporal Choice Behavior](https://doi.org/10.1016/j.jdeveco.2016.01.001)",
                     "author": "with Leandro Carvalho and Justin Sydnor",
-                    "journal": "*Journal of Development Economics*, 2016, 120(5): 41-52 (Ungated version)"
+                    "journal": "*Journal of Development Economics*, 2016, 120(5): 41-52 ([Ungated version](/files/ungated-papers/publications/CPS_JDE_2016.pdf))"
                 },
                 {
                     "title": "Delivering Conditional Cash Transfers via Savings Account",
                     "journal": "*IPC-UNDP* One Pager, 2015, 292 ISSN: 2318-9118"
                 },
                 {
-                    "title": "[Banking the Poor via Savings Accounts: Evidence from a Field Experiment](/files/ungated-papers/publications/P_JDE_2015.pdf)",
-                    "journal": "*Journal of Development Economics*, 2015, 115: 16-31 (Ungated version)"
+                    "title": "[Banking the Poor via Savings Accounts: Evidence from a Field Experiment](https://doi.org/10.1016/j.jdeveco.2015.01.004)",
+                    "journal": "*Journal of Development Economics*, 2015, 115: 16-31 ([Ungated version](/files/ungated-papers/publications/P_JDE_2015.pdf))"
                 },
             ],
         },
@@ -52,19 +52,19 @@ export default {
             "heading": "NETWORKS AND SPILLOVER EFFECTS",
             "contents": [
                 {
-                    "title": "[Saving Accounts' Interplay with Network-based Financial Arrangements: Evidence from a Field Experiment](/files/ungated-papers/publications/CP_EconomicJournal_2023.pdf)",
+                    "title": "[Saving Accounts' Interplay with Network-based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053)",
                     "author": "with Margherita Comola",
-                    "journal": "*The Economic Journal*, 2023, 133 (649): 516-535 (Ungated version)"
+                    "journal": "*The Economic Journal*, 2023, 133 (649): 516-535 ([Ungated version](/files/ungated-papers/publications/CP_EconomicJournal_2023.pdf))"
                 },
                 {
-                    "title": "[Treatment Effect Accounting for Network Changes](/files/ungated-papers/publications/CP_REStat_2021.pdf)",
+                    "title": "[Treatment Effect Accounting for Network Changes](https://doi.org/10.1162/rest_a_00908)",
                     "author": "with Margherita Comola",
-                    "journal": "*Review of Economics and Statistics*, 2021, 103 (3): 597-604 (Ungated version)"
+                    "journal": "*Review of Economics and Statistics*, 2021, 103 (3): 597-604 ([Ungated version](/files/ungated-papers/publications/CP_REStat_2021.pdf))"
                 },
                 {
-                    "title": "[When Incentives Backfire: Spillover Effects in Food Choice](/files/ungated-papers/publications/APRS_AEJ-Policy_2019.pdf)",
+                    "title": "[When Incentives Backfire: Spillover Effects in Food Choice](https://www.aeaweb.org/articles?id=10.1257/pol.20170588)",
                     "author": "with Manuela Angelucci, Heather Royer, and Anya Savikhin",
-                    "journal": "*American Economic Journal: Economic Policy*, 2019, 11(4): 66-95 (Ungated version)"
+                    "journal": "*American Economic Journal: Economic Policy*, 2019, 11(4): 66-95 ([Ungated version](/files/ungated-papers/publications/APRS_AEJ-Policy_2019.pdf))"
                 },
                 {
                     "title": "[Adaptation of Peer Messaging from Tuberculosis in India to COVID-19 in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2022.pdf)",
@@ -82,9 +82,9 @@ export default {
                     "journal": "revise and resubmit *Nature Human Behavior*"
                 },
                 {
-                    "title": "[The Importance of Parental Knowledge and Social Norms: Evidence from Weight Report Cards in Mexico](/files/ungated-papers/publications/PR_JHE_2014.pdf)",
+                    "title": "[The Importance of Parental Knowledge and Social Norms: Evidence from Weight Report Cards in Mexico](https://doi.org/10.1016/j.jhealeco.2014.07.001)",
                     "author": "with Heather Royer",
-                    "journal": "*Journal of Health Economics*, 2014, 37: 232-247 (Ungated version)"
+                    "journal": "*Journal of Health Economics*, 2014, 37: 232-247 ([Ungated version](/files/ungated-papers/publications/PR_JHE_2014.pdf))"
                 }
             ],
         },
@@ -94,27 +94,27 @@ export default {
                 {
                     "title": "[C-Sections, Obesity, and Health-Care Specialization: Evidence from Mexico](/files/ungated-papers/working-papers/HMP_2021.pdf)",
                     "author": "with Catalina Herrera-Almanza and Fernanda Marquez-Padilla",
-                    "journal": "revise and resubmit *Nature Human Behavior*"
+                    "journal": "revise and resubmit *World Bank Economic Review*"
                 },
                 {
-                    "title": "[Do Health Risk Assessments Change Eating Habits at the Workplace?](https://doi.org/10.1016/j.jebo.2020.02.004)",
+                    "title": "[Do Health Risk Assessments Change Eating Habits at the Workplace?](ttps://doi.org/10.1016/j.jebo.2020.02.004)",
                     "author": "with Mariana Carrera and Ayesha Hasan",
-                    "journal": "*Journal of Economic Behavior and Organization*, 2020, 172: 236-246 (Ungated version)"
+                    "journal": "*Journal of Economic Behavior and Organization*, 2020, 172: 236-246 ([Ungated version](https://doi.org/10.1016/j.jebo.2020.02.004))"
                 },
                 {
                     "title": "[The Importance of Parental Knowledge and Social Norms: Evidence from Weight Report Cards in Mexico](https://doi.org/10.1016/j.jhealeco.2014.07.001)",
                     "author": "with Heather Royer",
-                    "journal": "*Journal of Health Economics*, 2014, 37: 232-247 (Ungated version)"
+                    "journal": "*Journal of Health Economics*, 2014, 37: 232-247 ([Ungated version](/files/ungated-papers/publications/PR_JHE_2014.pdf))"
                 },
                 {
                     "title": "[The Effect of Social Programs and Exposure to Professionals on the Educational Aspirations of the Poor](https://doi.org/10.1016/j.econedurev.2012.05.006)",
                     "author": "with Carlos Chiapa and José Luis Garrido",
-                    "journal": "*Economics of Education Review*, 2012, 3(1): 778-798 (Ungated version)"
+                    "journal": "*Economics of Education Review*, 2012, 3(1): 778-798 ([Ungated version](/files/ungated-papers/publications/PR_JHE_2014.pdf))"
                 },
                 {
                     "title": "[A Theory of Occupational Choice with Endogenous Fertility](https://www.aeaweb.org/articles?id=10.1257/mic.4.4.1)",
                     "author": "with Dilip Mookherjee and Debraj Ray",
-                    "journal": "*American Economic Journal - Microeconomics*, 2012, 4(4): 1-34 (Ungated version)"
+                    "journal": "*American Economic Journal - Microeconomics*, 2012, 4(4): 1-34 ([Ungated version]())"
                 }
             ],
         },
@@ -132,9 +132,9 @@ export default {
                     "journal": "submitted"
                 },
                 {
-                    "title": "[Social Distancing, Stimulus Payments, and Domestic Violence: Evidence from the US during COVID-19](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf)",
+                    "title": "[Social Distancing, Stimulus Payments, and Domestic Violence: Evidence from the US during COVID-19](https://www.aeaweb.org/articles?id=10.1257/pandp.20221011)",
                     "author": "with Heather Royer",
-                    "journal": "*Journal of Health Economics*, 2014, 37: 232-247 (Ungated version)"
+                    "journal": "*Journal of Health Economics*, 2014, 37: 232-247 ([Ungated version](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf))"
                 }
             ],
         },
@@ -167,12 +167,12 @@ export default {
             "heading": "OTHER PAPERS",
             "contents": [
                 {
-                    "title": "[Effects of Border Price Changes on Agricultural Wages and Employment in Mexico](/files/ungated-papers/publications/P_JID_2015.pdf)",
+                    "title": "[Effects of Border Price Changes on Agricultural Wages and Employment in Mexico](https://doi.org/10.1002/jid.2814)",
                     "author": "with Veronica Frisancho and Alejandro Herrera"
                 },
                 {
-                    "title": "[Who Benefited More from NAFTA: Small or Large Farmers? Evidence from Mexico](/files/ungated-papers/publications/P_RDE_2013.pdf)",
-                    "journal": "*Review of Development Economics*, 2013, 17(3): 594-608 (Ungated version)"
+                    "title": "[Who Benefited More from NAFTA: Small or Large Farmers? Evidence from Mexico](https://doi.org/10.1111/rode.12053)",
+                    "journal": "*Review of Development Economics*, 2013, 17(3): 594-608 ([Ungated version](/files/ungated-papers/publications/P_RDE_2013.pdf))"
                 }
             ],
         },
