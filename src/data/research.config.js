@@ -163,7 +163,7 @@ export default {
             "contents": [
                 {
                     "title": "[Effects of Border Price Changes on Agricultural Wages and Employment in Mexico](https://doi.org/10.1002/jid.2814)",
-                    "author": "with Veronica Frisancho and Alejandro Herrera"
+                    "journal": "*Journal of International Development*, 2015, 27(1): 112–132 ([Ungated version](/files/ungated-papers/publications/P_JID_2015.pdf))"
                 },
                 {
                     "title": "[Who Benefited More from NAFTA: Small or Large Farmers? Evidence from Mexico](https://doi.org/10.1111/rode.12053)",
