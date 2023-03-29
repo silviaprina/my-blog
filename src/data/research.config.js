@@ -21,7 +21,7 @@ export default {
                 {
                     "title": "[Migration, Money Transfers and Mobile Money: Evidence from Niger](https://aeaweb.org/articles?id=10.1257/pandp.20201085)",
                     "author": "with Jenny Aker and Jamilah Welch",
-                    "journal": "*American Economic Review, Papers & Proceedings*, 2020, 110: 589-93 ([Ungated version](/files/ungated-papers/publications/APW_AER_P&P_2020.pdf))"
+                    "journal": "*American Economic Review, P&P*, 2020, 110: 589-93 ([Ungated version](/files/ungated-papers/publications/APW_AER_P&P_2020.pdf))"
                 },
                 {
                     "title": "[CCTs and Financial Access: Increasing the Bang for Each Transferred Buck?](https://doi.org/10.1111/dpr.12199)",
@@ -128,8 +128,8 @@ export default {
                 },
                 {
                     "title": "[Social Distancing, Stimulus Payments, and Domestic Violence: Evidence from the US during COVID-19](https://www.aeaweb.org/articles?id=10.1257/pandp.20221011)",
-                    "author": "with Heather Royer",
-                    "journal": "*Journal of Health Economics*, 2014, 37: 232-247 ([Ungated version](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf))"
+                    "author": "with Bilge Erten and Pinar Keskin",
+                    "journal": "*American Economic Review P&P*, 2022, 112: 262-66 ([Ungated version](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf))"
                 }
             ],
         },
