@@ -102,11 +102,6 @@ export default {
                     "journal": "*Journal of Economic Behavior and Organization*, 2020, 172: 236-246 ([Ungated version](https://doi.org/10.1016/j.jebo.2020.02.004))"
                 },
                 {
-                    "title": "[The Importance of Parental Knowledge and Social Norms: Evidence from Weight Report Cards in Mexico](https://doi.org/10.1016/j.jhealeco.2014.07.001)",
-                    "author": "with Heather Royer",
-                    "journal": "*Journal of Health Economics*, 2014, 37: 232-247 ([Ungated version](/files/ungated-papers/publications/PR_JHE_2014.pdf))"
-                },
-                {
                     "title": "[The Effect of Social Programs and Exposure to Professionals on the Educational Aspirations of the Poor](https://doi.org/10.1016/j.econedurev.2012.05.006)",
                     "author": "with Carlos Chiapa and José Luis Garrido",
                     "journal": "*Economics of Education Review*, 2012, 3(1): 778-798 ([Ungated version](/files/ungated-papers/publications/PR_JHE_2014.pdf))"
