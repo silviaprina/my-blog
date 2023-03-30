@@ -4,7 +4,7 @@ export default {
             "heading": "FINANCIAL ACCESS",
             "contents": [
                 {
-                    "title": "[Too Fast Too Furious? Digital Credit Speed and Repayments Rates](/files/ungated-papers/working-papers/BKP_2022.pdf)",
+                    "title": "[Too Fast Too Furious? Digital Credit Speed and Repayments Rates](/files/ungated-papers/working-papers/BKP_submitted_EJ.pdf)",
                     "author": "with Alfredo Burlando and Michael Khun",
                     "journal": "submitted to *The Economic Journal*"
                 },
@@ -93,7 +93,7 @@ export default {
             "heading": "DETERMINANTS OF HEALTH AND HUMAN CAPITAL",
             "contents": [
                 {
-                    "title": "[C-Sections, Obesity, and Health-Care Specialization: Evidence from Mexico](/files/ungated-papers/working-papers/HMP_2021.pdf)",
+                    "title": "[C-Sections, Obesity, and Health-Care Specialization: Evidence from Mexico](/files/ungated-papers/working-papers/HMP_R&R_WBER.pdf)",
                     "author": "with Catalina Herrera-Almanza and Fernanda Marquez-Padilla",
                     "journal": "revise and resubmit *World Bank Economic Review*"
                 },
