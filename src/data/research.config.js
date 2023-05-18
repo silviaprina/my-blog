@@ -6,7 +6,7 @@ export default {
                 {
                     "title": "[Too Fast Too Furious? Digital Credit Speed and Repayments Rates](/files/ungated-papers/working-papers/BKP_submitted_EJ.pdf)",
                     "author": "with Alfredo Burlando and Michael Khun",
-                    "journal": "submitted to *The Economic Journal*"
+                    "journal": "submitted"
                 },
                 {
                     "title": "[Can A Budget Recording Tool Teach Financial Skills to Youth? Experimental Evidence from a Financial Diaries Study](/files/ungated-papers/working-papers/FHP_2022.pdf)",
@@ -14,7 +14,7 @@ export default {
                     "journal": "revise and resubmit *Journal of Economic Behavior and Organization*"
                 },
                 {
-                    "title": "Digital Credit, Learning, and the Value of Credit Bureaus",
+                    "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf)",
                     "author": "with Alfredo Burlando and Mike Kuhn",
                     "journal": "conditional acceptance, *Oxford Review of Applied Economics*"
                 },
@@ -80,7 +80,7 @@ export default {
                 {
                     "title": "[Public Opinion, Racial Bias, and Labor Market Outcomes](/files/ungated-papers/working-papers/MPS_2023.pdf)",
                     "author": "with Kaveh Majlesi and Paul Sullivan",
-                    "journal": "revise and resubmit *Nature Human Behavior*"
+                    "journal": "resubmitted *Nature Human Behavior*"
                 },
                 {
                     "title": "[The Importance of Parental Knowledge and Social Norms: Evidence from Weight Report Cards in Mexico](https://doi.org/10.1016/j.jhealeco.2014.07.001)",
@@ -95,7 +95,7 @@ export default {
                 {
                     "title": "[C-Sections, Obesity, and Health-Care Specialization: Evidence from Mexico](/files/ungated-papers/working-papers/HMP_R&R_WBER.pdf)",
                     "author": "with Catalina Herrera-Almanza and Fernanda Marquez-Padilla",
-                    "journal": "revise and resubmit *World Bank Economic Review*"
+                    "journal": "resubmitted *World Bank Economic Review*"
                 },
                 {
                     "title": "[Do Health Risk Assessments Change Eating Habits at the Workplace?](https://doi.org/10.1016/j.jebo.2020.02.004)",
@@ -120,17 +120,21 @@ export default {
                 {
                     "title": "[Transitory Income Changes and Consumption Smoothing: Evidence from Mexico](/files/ungated-papers/working-papers/ACPR_2023.pdf)",
                     "author": "with Manuela Angelucci, Carlos Chiapa and Irvin Rojas",
-                    "journal": "revise and resubmit *Journal of Public Economics*"
+                    "journal": "resubmitted *Journal of Public Economics*"
                 },
                 {
                     "title": "[Shutdown, Irregular SNAP Disbursements and Household Spending](/files/ungated-papers/working-papers/MPG_2022.pdf)",
-                    "author": "with Mindy Mark and Roy Gernhardt",
+                    "author": "with Mindy Marks and Roy Gernhardt",
                     "journal": "submitted"
                 },
                 {
                     "title": "[Social Distancing, Stimulus Payments, and Domestic Violence: Evidence from the US during COVID-19](https://www.aeaweb.org/articles?id=10.1257/pandp.20221011)",
                     "author": "with Bilge Erten and Pinar Keskin",
                     "journal": "*American Economic Review P&P*, 2022, 112: 262-66 ([Ungated version](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf))"
+                },
+                {
+                    "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program]",
+                    "author": "with Mindy Marks and Redina Tahaj"
                 }
             ],
         },
