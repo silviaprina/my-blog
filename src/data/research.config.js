@@ -9,9 +9,9 @@ export default {
                     "journal": "submitted"
                 },
                 {
-                    "title": "[Can A Budget Recording Tool Teach Financial Skills to Youth? Experimental Evidence from a Financial Diaries Study](/files/ungated-papers/working-papers/FHP_2022.pdf)",
+                    "title": "[Can A Budget Recording Tool Teach Financial Skills to Youth? Experimental Evidence from a Financial Diaries Study](/files/ungated-papers/working-papers/FHP_2023.pdf)",
                     "author": "with Veronica Frisancho and Alejandro Herrera",
-                    "journal": "revise and resubmit *Journal of Economic Behavior and Organization*"
+                    "journal": "resubmitted to the *Journal of Economic Behavior and Organization*"
                 },
                 {
                     "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf)",
@@ -80,7 +80,7 @@ export default {
                 {
                     "title": "[Public Opinion, Racial Bias, and Labor Market Outcomes](/files/ungated-papers/working-papers/MPS_2023.pdf)",
                     "author": "with Kaveh Majlesi and Paul Sullivan",
-                    "journal": "resubmitted *Nature Human Behavior*"
+                    "journal": "resubmitted to *Nature Human Behavior*"
                 },
                 {
                     "title": "[The Importance of Parental Knowledge and Social Norms: Evidence from Weight Report Cards in Mexico](https://doi.org/10.1016/j.jhealeco.2014.07.001)",
@@ -120,7 +120,7 @@ export default {
                 {
                     "title": "[Transitory Income Changes and Consumption Smoothing: Evidence from Mexico](/files/ungated-papers/working-papers/ACPR_2023.pdf)",
                     "author": "with Manuela Angelucci, Carlos Chiapa and Irvin Rojas",
-                    "journal": "resubmitted *Journal of Public Economics*"
+                    "journal": "resubmitted to the *Journal of Public Economics*"
                 },
                 {
                     "title": "[Shutdown, Irregular SNAP Disbursements and Household Spending](/files/ungated-papers/working-papers/MPG_2022.pdf)",
