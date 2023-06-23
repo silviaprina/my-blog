@@ -95,7 +95,7 @@ export default {
                 {
                     "title": "[C-Sections, Obesity, and Health-Care Specialization: Evidence from Mexico](/files/ungated-papers/working-papers/HMP_R&R_WBER.pdf)",
                     "author": "with Catalina Herrera-Almanza and Fernanda Marquez-Padilla",
-                    "journal": "resubmitted *World Bank Economic Review*"
+                    "journal": "resubmitted to the *World Bank Economic Review*"
                 },
                 {
                     "title": "[Do Health Risk Assessments Change Eating Habits at the Workplace?](https://doi.org/10.1016/j.jebo.2020.02.004)",
