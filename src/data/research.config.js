@@ -68,7 +68,7 @@ export default {
                     "journal": "*American Economic Journal: Economic Policy*, 2019, 11(4): 66-95 ([Ungated version](/files/ungated-papers/publications/APRS_AEJ-Policy_2019.pdf))"
                 },
                 {
-                    "title": "[Adaptation of Peer Messaging from Tuberculosis in India to COVID-19 in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2022.pdf)",
+                    "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2022.pdf)",
                     "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Dean Karlan, and Mario Macis",
                     "journal": "submitted"
                 }
