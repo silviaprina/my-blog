@@ -133,8 +133,9 @@ export default {
                     "journal": "*American Economic Review P&P*, 2022, 112: 262-66 ([Ungated version](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf))"
                 },
                 {
-                    "title": "Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program",
+                    "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023_SNAP_and_Labor_Supply.pdf)",
                     "author": "with Mindy Marks and Redina Tahaj"
+                    "journal": "submitted"
                 }
             ],
         },
