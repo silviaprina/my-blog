@@ -136,6 +136,11 @@ export default {
                     "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023_SNAP_and_Labor_Supply.pdf)",
                     "author": "with Mindy Marks and Redina Tahaj"
                     "journal": "submitted"
+                },
+                  {
+                    "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023.pdf)",
+                    "author": "with Mindy Marks and Redina Tahaj",
+                    "journal": "submitted"
                 }
             ],
         },
