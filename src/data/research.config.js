@@ -93,7 +93,7 @@ export default {
             "heading": "DETERMINANTS OF HEALTH AND HUMAN CAPITAL",
             "contents": [
                 {
-                    "title": "[C-Sections, Obesity, and Health-Care Specialization: Evidence from Mexico](/files/ungated-papers/working-papers/HMP_R&R_WBER.pdf)",
+                    "title": "[C-Sections, Obesity, and Health-Care Specialization: Evidence from Mexico](/files/ungated-papers/working-papers/HMP_Csection_and_obesity.pdf)",
                     "author": "with Catalina Herrera-Almanza and Fernanda Marquez-Padilla",
                     "journal": "accepted to the *World Bank Economic Review*"
                 },
