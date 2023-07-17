@@ -80,7 +80,7 @@ export default {
                 {
                     "title": "[Public Opinion, Racial Bias, and Labor Market Outcomes](/files/ungated-papers/working-papers/MPS_2023.pdf)",
                     "author": "with Kaveh Majlesi and Paul Sullivan",
-                    "journal": "resubmitted to *Nature Human Behavior*"
+                    "journal": "2nd revision requested to *Nature Human Behavior*"
                 },
                 {
                     "title": "[The Importance of Parental Knowledge and Social Norms: Evidence from Weight Report Cards in Mexico](https://doi.org/10.1016/j.jhealeco.2014.07.001)",
