@@ -16,7 +16,7 @@ export default {
                 {
                     "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf)",
                     "author": "with Alfredo Burlando and Mike Kuhn",
-                    "journal": "conditional acceptance, *Oxford Review of Applied Economics*"
+                    "journal": "accepted, *Oxford Review of Applied Economics*"
                 },
                 {
                     "title": "[Migration, Money Transfers and Mobile Money: Evidence from Niger](https://aeaweb.org/articles?id=10.1257/pandp.20201085)",
