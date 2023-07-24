@@ -6,8 +6,9 @@ export default {
         The bulk of her work uses field experiments and rigorous empirical methods to study the impact of financial access on the welfare and decision making of the poor. Her research highlights the role of networks and peers in shaping economic decisions and develops new empirical methods in this context.`,
 
         `Professor Prina is Co-Editor of [Labour Economics](https://eale.nl/labour-economics/about-labour-economics), 
+        a Faculty Affiliate of the [Abdul Latif Jameel Poverty Action (J-PAL)](https://www.povertyactionlab.org), 
         a Research Fellow at the [Institute for the Study of Labor (IZA)](https://www.iza.org/people/fellows/7131/silvia-prina/), 
-        a Research Affiliate at [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/node/2251), an Invited Researcher at the [The Abdul Latif Jameel Poverty Action (J-PAL)](https://www.povertyactionlab.org) for the [Inclusive Financial Innovation Initiative](https://www.povertyactionlab.org/initiative/inclusive-financial-innovation-initiative), and a Faculty Scholar at the 
+        a Research Affiliate at [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/node/2251), an Invited Researcher at [J-PAL](https://www.povertyactionlab.org) for the [Inclusive Financial Innovation Initiative](https://www.povertyactionlab.org/initiative/inclusive-financial-innovation-initiative), and a Faculty Scholar at the 
         [Institute for Health Equity and Social Justice Research](https://bouve.northeastern.edu/institute-for-health-equity-and-social-justice-research/silvia-prina-bio/). 
         She is the Graduate Program Director of the [PhD in Applied Economics](https://cssh.northeastern.edu/economics/program/phd-in-applied-economics/). 
         She holds a PhD in Economics from Boston University. Prior to joining Northeastern in 2018, 
