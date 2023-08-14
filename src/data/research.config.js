@@ -11,7 +11,7 @@ export default {
                 {
                     "title": "[Can A Budget Recording Tool Teach Financial Skills to Youth? Experimental Evidence from a Financial Diaries Study](/files/ungated-papers/working-papers/FHP_2023.pdf)",
                     "author": "with Veronica Frisancho and Alejandro Herrera",
-                    "journal": "2nd revision requested, *Journal of Economic Behavior and Organization*"
+                    "journal": "accepted, *Journal of Economic Behavior and Organization*"
                 },
                 {
                     "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf)",
