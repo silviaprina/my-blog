@@ -8,15 +8,15 @@ export default {
                     "author": "with Alfredo Burlando and Michael Khun",
                     "journal": "submitted"
                 },
-                {
-                    "title": "[Can A Budget Recording Tool Teach Financial Skills to Youth? Experimental Evidence from a Financial Diaries Study](/files/ungated-papers/working-papers/FHP_2023.pdf)",
-                    "author": "with Veronica Frisancho and Alejandro Herrera",
-                    "journal": "accepted, *Journal of Economic Behavior and Organization*"
-                },
-                {
+                                {
                     "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf)",
                     "author": "with Alfredo Burlando and Mike Kuhn",
                     "journal": "accepted, *Oxford Review of Applied Economics*"
+                },
+                {
+                    "title": "[Can A Budget Recording Tool Teach Financial Skills to Youth? Experimental Evidence from a Financial Diaries Study](https://doi.org/10.1016/j.jebo.2023.08.014)",
+                    "author": "with Veronica Frisancho and Alejandro Herrera",
+                    "journal": "*Journal of Economic Behavior and Organization*, 2023, 214 (October 2023), 595-614 ([Ungated version](/files/ungated-papers/working-papers/FHP_2023.pdf))"
                 },
                 {
                     "title": "[Migration, Money Transfers and Mobile Money: Evidence from Niger](https://aeaweb.org/articles?id=10.1257/pandp.20201085)",
