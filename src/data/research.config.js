@@ -93,9 +93,9 @@ export default {
             "heading": "DETERMINANTS OF HEALTH AND HUMAN CAPITAL",
             "contents": [
                 {
-                    "title": "[C-Sections, Obesity, and Health-Care Specialization: Evidence from Mexico](/files/ungated-papers/working-papers/HMP_Csection_and_obesity.pdf)",
+                    "title": "[C-Sections, Obesity, and Health-Care Specialization: Evidence from Mexico]"(https://doi.org/10.1093/wber/lhad022),
                     "author": "with Catalina Herrera-Almanza and Fernanda Marquez-Padilla",
-                    "journal": "accepted, *World Bank Economic Review*"
+                    "journal": "forthcoming, *World Bank Economic Review* (/files/ungated-papers/working-papers/HMP_Csection_and_obesity.pdf)"
                 },
                 {
                     "title": "[Do Health Risk Assessments Change Eating Habits at the Workplace?](https://doi.org/10.1016/j.jebo.2020.02.004)",
