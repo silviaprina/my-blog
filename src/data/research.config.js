@@ -53,6 +53,11 @@ export default {
             "heading": "NETWORKS AND SPILLOVER EFFECTS",
             "contents": [
                 {
+                    "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2023.pdf)",
+                    "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Dean Karlan, and Mario Macis",
+                    "journal": "conditional acceptance, *Journal of Development Economics*"
+                },
+                {
                     "title": "[Saving Accounts' Interplay with Network-based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053)",
                     "author": "with Margherita Comola",
                     "journal": "*The Economic Journal*, 2023, 133 (649): 516-535 ([Ungated version](/files/ungated-papers/publications/CP_EconomicJournal_2023.pdf))"
@@ -66,11 +71,6 @@ export default {
                     "title": "[When Incentives Backfire: Spillover Effects in Food Choice](https://www.aeaweb.org/articles?id=10.1257/pol.20170588)",
                     "author": "with Manuela Angelucci, Heather Royer, and Anya Savikhin",
                     "journal": "*American Economic Journal: Economic Policy*, 2019, 11(4): 66-95 ([Ungated version](/files/ungated-papers/publications/APRS_AEJ-Policy_2019.pdf))"
-                },
-                {
-                    "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2023.pdf)",
-                    "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Dean Karlan, and Mario Macis",
-                    "journal": "revision requested, *Journal of Development Economics*"
                 }
             ],
         },
