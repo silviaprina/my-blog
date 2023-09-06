@@ -70,7 +70,7 @@ export default {
                 {
                     "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2023.pdf)",
                     "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Dean Karlan, and Mario Macis",
-                    "journal": "submitted"
+                    "journal": "revision requested, *Journal of Development Economics*"
                 }
             ],
         },
