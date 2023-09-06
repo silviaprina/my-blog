@@ -55,7 +55,7 @@ export default {
                 {
                     "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2023.pdf)",
                     "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Dean Karlan, and Mario Macis",
-                    "journal": "conditional acceptance, *Journal of Development Economics*"
+                    "journal": "conditionally accepted, *Journal of Development Economics*"
                 },
                 {
                     "title": "[Saving Accounts' Interplay with Network-based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053)",
