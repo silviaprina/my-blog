@@ -123,7 +123,7 @@ export default {
                     "journal": "2nd revision requested, *Journal of Public Economics*"
                 },
                 {
-                    "title": "[Shutdown, Irregular SNAP Disbursements and Household Spending](/files/ungated-papers/working-papers/MPG_2022.pdf)",
+                    "title": "[Government Shutdown and SNAP Disbursements: Effects on Household Expenditures](/files/ungated-papers/working-papers/MPG_2023.pdf)",
                     "author": "with Mindy Marks and Roy Gernhardt",
                     "journal": "submitted"
                 },
