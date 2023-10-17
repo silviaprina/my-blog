@@ -11,7 +11,7 @@ export default {
                                 {
                     "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf)",
                     "author": "with Alfredo Burlando and Mike Kuhn",
-                    "journal": "accepted, *Oxford Review of Applied Economics*"
+                    "journal": "accepted, *Oxford Review of Economic Policy*"
                 },
                 {
                     "title": "[Can A Budget Recording Tool Teach Financial Skills to Youth? Experimental Evidence from a Financial Diaries Study](https://doi.org/10.1016/j.jebo.2023.08.014)",
