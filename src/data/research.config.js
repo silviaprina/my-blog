@@ -123,21 +123,20 @@ export default {
                     "journal": "accepted, *Journal of Public Economics*"
                 },
                 {
+                    "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023.pdf)",
+                    "author": "with Mindy Marks and Redina Tahaj",
+                    "journal": "submitted"
+                },
+                {
                     "title": "[Government Shutdown and SNAP Disbursements: Effects on Household Expenditures](/files/ungated-papers/working-papers/MPG_2023.pdf)",
                     "author": "with Mindy Marks and Roy Gernhardt",
-                    "journal": "submitted"
+                    "journal": "revise and resubmit, *Labour Economics*"
                 },
                 {
                     "title": "[Social Distancing, Stimulus Payments, and Domestic Violence: Evidence from the US during COVID-19](https://www.aeaweb.org/articles?id=10.1257/pandp.20221011)",
                     "author": "with Bilge Erten and Pinar Keskin",
                     "journal": "*American Economic Review P&P*, 2022, 112: 262-66 ([Ungated version](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf))"
                 },
-                  {
-                    "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023.pdf)",
-                    "author": "with Mindy Marks and Redina Tahaj",
-                    "journal": "submitted"
-                }
-            ],
         },
         {
             "heading": "WORKS IN PROGRESS",
