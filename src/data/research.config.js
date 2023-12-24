@@ -120,7 +120,7 @@ export default {
                 {
                     "title": "[Transitory Income Changes and Consumption Smoothing: Evidence from Mexico](/files/ungated-papers/working-papers/ACPR_2023.pdf)",
                     "author": "with Manuela Angelucci, Carlos Chiapa and Irvin Rojas",
-                    "journal": "forthcoming, *Journal of Public Economics*"
+                    "journal": "forthcoming,  *Journal of Public Economics*"
                 },
                 {
                     "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023.pdf)",
