@@ -137,6 +137,7 @@ export default {
                     "author": "with Bilge Erten and Pinar Keskin",
                     "journal": "*American Economic Review P&P*, 2022, 112: 262-66 ([Ungated version](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf))"
                 },
+            ],
         },
         {
             "heading": "WORKS IN PROGRESS",
