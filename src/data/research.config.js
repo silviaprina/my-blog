@@ -6,7 +6,7 @@ export default {
                 {
                     "title": "[Too Fast Too Furious? Digital Credit Speed and Repayments Rates](/files/ungated-papers/working-papers/BKP_submitted_EJ.pdf)",
                     "author": "with Alfredo Burlando and Michael Khun",
-                    "journal": "submitted"
+                    "journal": "revise and resubmit, *Journal of Development Economics*"
                 },
                                 {
                     "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf)",
