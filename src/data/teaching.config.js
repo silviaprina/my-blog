@@ -2,7 +2,7 @@ export default {
     courses: [
         {
             title: "ECON 3416 - Behavioral Economics",
-            additionalTitle: "Northeastern University - Fall 2022",
+            additionalTitle: "Northeastern University - Fall 2022-24",
             additionalLinks: [
                 {
                     text: "Syllabus",
