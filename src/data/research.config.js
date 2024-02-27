@@ -118,11 +118,6 @@ export default {
             "heading": "INCOME SHOCKS AND CONSUMPTION SMOOTHING",
             "contents": [
                 {
-                    "title": "[Transitory Income Changes and Consumption Smoothing: Evidence from Mexico](/files/ungated-papers/working-papers/ACPR_2023.pdf)",
-                    "author": "with Manuela Angelucci, Carlos Chiapa and Irvin Rojas",
-                    "journal": "forthcoming,  *Journal of Public Economics*, ([J-PAL summary](https://www.povertyactionlab.org/evaluation/cash-transfers-effects-food-consumption-mexico))"
-                },
-                {
                     "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023.pdf)",
                     "author": "with Mindy Marks and Redina Tahaj",
                     "journal": "revise and resubmit, *Labour Economics*"
@@ -131,6 +126,11 @@ export default {
                     "title": "[Government Shutdown and SNAP Disbursements: Effects on Household Expenditures](/files/ungated-papers/working-papers/MPG_2023.pdf)",
                     "author": "with Mindy Marks and Roy Gernhardt",
                     "journal": "revise and resubmit, *Review of the Economics of the Household*"
+                },
+                {
+                    "title": "[Transitory Income Changes and Consumption Smoothing: Evidence from Mexico](https://www.sciencedirect.com/science/article/pii/S0047272723001950)",
+                    "author": "with Manuela Angelucci, Carlos Chiapa and Irvin Rojas",
+                    "journal": "*Journal of Public Economics*, 2024, 230, 1-18 ([Ungated version](/files/ungated-papers/publications/ACPR_2023.pdf)([J-PAL summary](https://www.povertyactionlab.org/evaluation/cash-transfers-effects-food-consumption-mexico))"
                 },
                 {
                     "title": "[Social Distancing, Stimulus Payments, and Domestic Violence: Evidence from the US during COVID-19](https://www.aeaweb.org/articles?id=10.1257/pandp.20221011)",
