@@ -130,7 +130,7 @@ export default {
                 {
                     "title": "[Transitory Income Changes and Consumption Smoothing: Evidence from Mexico](https://www.sciencedirect.com/science/article/pii/S0047272723001950)",
                     "author": "with Manuela Angelucci, Carlos Chiapa and Irvin Rojas",
-                    "journal": "*Journal of Public Economics*, 2024, 230: 1-18 (([Ungated version](/files/ungated-papers/publications/ACPR_2024.pdf))(([J-PAL summary](https://www.povertyactionlab.org/evaluation/cash-transfers-effects-food-consumption-mexico))"
+                    "journal": "*Journal of Public Economics*, 2024, 230: 1-18 ([Ungated version](/files/ungated-papers/publications/ACPR_2024.pdf))(([J-PAL summary](https://www.povertyactionlab.org/evaluation/cash-transfers-effects-food-consumption-mexico))"
                 },
                 {
                     "title": "[Social Distancing, Stimulus Payments, and Domestic Violence: Evidence from the US during COVID-19](https://www.aeaweb.org/articles?id=10.1257/pandp.20221011)",
