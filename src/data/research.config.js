@@ -143,12 +143,12 @@ export default {
             "heading": "WORKS IN PROGRESS",
             "contents": [
                 {
-                    "title": "Long-Term Effects of Financial Education on Youth Financial Behavior: Evidence from Financial Diaries",
-                    "author": "with Veronica Frisancho and Alejandro Herrera"
-                },
-                {
                     "title": "A Second Chance at Financial Inclusion: The Impact of Repayment Plans and Incentives on Delinquent Digital Credit Borrowers",
                     "author": "with Alfredo Burlando and Michael Khun"
+                },
+                {
+                    "title": "Long-Term Effects of Financial Education on Youth Financial Behavior: Evidence from Financial Diaries",
+                    "author": "with Veronica Frisancho and Alejandro Herrera"
                 },
                 {
                     "title": "Milking It for All It's Worth: Digital Credit and Payments in the Dairy Sector",
