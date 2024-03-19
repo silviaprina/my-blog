@@ -125,7 +125,7 @@ export default {
                 {
                     "title": "[Government Shutdown and SNAP Disbursements: Effects on Household Expenditures](/files/ungated-papers/working-papers/MPG_2023.pdf)",
                     "author": "with Mindy Marks and Roy Gernhardt",
-                    "journal": "revise and resubmit, *Review of the Economics of the Household*"
+                    "journal": "resubmitted, *Review of the Economics of the Household*"
                 },
                 {
                     "title": "[Transitory Income Changes and Consumption Smoothing: Evidence from Mexico](https://www.sciencedirect.com/science/article/pii/S0047272723001950)",
