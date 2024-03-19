@@ -9,9 +9,9 @@ export default {
                     "journal": "revise and resubmit, *Journal of Development Economics*"
                 },
                                 {
-                    "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf)",
+                    "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](https://doi.org/10.1093/oxrep/grad050)",
                     "author": "with Alfredo Burlando and Mike Kuhn",
-                    "journal": "accepted, *Oxford Review of Economic Policy*"
+                    "journal": "*Oxford Review of Economic Policy*, 2024, 40(1): 104–117 ([Ungated version](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf))"
                 },
                 {
                     "title": "[Can A Budget Recording Tool Teach Financial Skills to Youth? Experimental Evidence from a Financial Diaries Study](https://doi.org/10.1016/j.jebo.2023.08.014)",
