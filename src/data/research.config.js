@@ -55,7 +55,7 @@ export default {
                 {
                     "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2023.pdf)",
                     "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Dean Karlan, and Mario Macis",
-                    "journal": "conditionally accepted, *Journal of Development Economics*"
+                    "journal": "accepted, *Journal of Development Economics*"
                 },
                 {
                     "title": "[Saving Accounts' Interplay with Network-based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053)",
@@ -80,7 +80,7 @@ export default {
                 {
                     "title": "[Public Opinion, Racial Bias, and Labor Market Outcomes](/files/ungated-papers/working-papers/MPS_2023.pdf)",
                     "author": "with Kaveh Majlesi and Paul Sullivan",
-                    "journal": "conditionally accepted, *Nature Human Behavior*"
+                    "journal": "accepted, *Nature Human Behavior*"
                 },
                 {
                     "title": "[The Importance of Parental Knowledge and Social Norms: Evidence from Weight Report Cards in Mexico](https://doi.org/10.1016/j.jhealeco.2014.07.001)",
