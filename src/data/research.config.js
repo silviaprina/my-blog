@@ -55,7 +55,7 @@ export default {
                 {
                     "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2023.pdf)",
                     "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Dean Karlan, and Mario Macis",
-                    "journal": "accepted, *Journal of Development Economics*"
+                    "journal": "forthcoming, *Journal of Development Economics*"
                 },
                 {
                     "title": "[Saving Accounts' Interplay with Network-based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053)",
@@ -78,9 +78,9 @@ export default {
             "heading": "RACIAL BIAS AND SOCIAL NORMS",
             "contents": [
                 {
-                    "title": "[Public Opinion, Racial Bias, and Labor Market Outcomes](/files/ungated-papers/working-papers/MPS_2023.pdf)",
+                    "title": "[Public Opinion, Racial Bias, and Labor Market Outcomes](https://www.nature.com/articles/s41562-024-01904-w)",
                     "author": "with Kaveh Majlesi and Paul Sullivan",
-                    "journal": "accepted, *Nature Human Behavior*"
+                    "journal": "*Nature Human Behavior*, 2024, https://doi.org/10.1038/s41562-024-01904-w ([Ungated version](/files/ungated-papers/working-papers/MPS_2023.pdf))"
                 },
                 {
                     "title": "[The Importance of Parental Knowledge and Social Norms: Evidence from Weight Report Cards in Mexico](https://doi.org/10.1016/j.jhealeco.2014.07.001)",
@@ -120,12 +120,12 @@ export default {
                 {
                     "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023.pdf)",
                     "author": "with Mindy Marks and Redina Tahaj",
-                    "journal": "revise and resubmit, *Labour Economics*"
+                    "journal": "resubmitted, *Labour Economics*"
                 },
                 {
                     "title": "[Government Shutdown and SNAP Disbursements: Effects on Household Expenditures](/files/ungated-papers/working-papers/MPG_2023.pdf)",
                     "author": "with Mindy Marks and Roy Gernhardt",
-                    "journal": "resubmitted, *Review of the Economics of the Household*"
+                    "journal": "accepted, *Review of the Economics of the Household*"
                 },
                 {
                     "title": "[Transitory Income Changes and Consumption Smoothing: Evidence from Mexico](https://www.sciencedirect.com/science/article/pii/S0047272723001950)",
