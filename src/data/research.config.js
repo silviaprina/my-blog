@@ -148,7 +148,7 @@ export default {
                 },
                 {
                     "title": "Integrating Behavioral Data and Social Norms with Network Models for Policy Applications",
-                    "authos": "with Margherita Comola, Babak Heydari, Gabor Lippner, and Dan O'Brien"
+                    "author": "with Margherita Comola, Babak Heydari, Gabor Lippner, and Dan O'Brien"
                 },
                 {
                     "title": "Long-Term Effects of Financial Education on Youth Financial Behavior: Evidence from Financial Diaries",
