@@ -147,6 +147,10 @@ export default {
                     "author": "with Alfredo Burlando and Michael Khun"
                 },
                 {
+                    "title": "Integrating Behavioral Data and Social Norms with Network Models for Policy Applications”, 
+                    "author": "with Margherita Comola, Babak Heydari, Gabor Lippner, and Dan O’Brien"
+                },
+                {
                     "title": "Long-Term Effects of Financial Education on Youth Financial Behavior: Evidence from Financial Diaries",
                     "author": "with Veronica Frisancho and Alejandro Herrera"
                 },
