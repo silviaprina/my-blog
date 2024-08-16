@@ -58,7 +58,7 @@ export default {
                     "journal": "forthcoming, *Journal of Development Economics*"
                 },
                 {
-                    "title": "[Saving Accounts' Interplay with Network-based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053)",
+                    "title": "[The Interplay Among Savings Accounts and Network-Based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053)",
                     "author": "with Margherita Comola",
                     "journal": "*The Economic Journal*, 2023, 133 (649): 516-535 ([Ungated version](/files/ungated-papers/publications/CP_EconomicJournal_2023.pdf))"
                 },
