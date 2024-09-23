@@ -53,9 +53,9 @@ export default {
             "heading": "NETWORKS AND SPILLOVER EFFECTS",
             "contents": [
                 {
-                    "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](/files/ungated-papers/working-papers/BCGGHKMP_2023.pdf)",
+                    "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](https://doi.org/10.1016/j.jdeveco.2024.103318)",
                     "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Dean Karlan, and Mario Macis",
-                    "journal": "forthcoming, *Journal of Development Economics*"
+                    "journal": "*Journal of Development Economics*, 2024, 171, 103318 ([Ungated version](/files/ungated-papers/publications/JDE_2024.pdf))"
                 },
                 {
                     "title": "[The Interplay Among Savings Accounts and Network-Based Financial Arrangements: Evidence from a Field Experiment](https://doi.org/10.1093/ej/ueac053)",
