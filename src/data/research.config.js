@@ -120,12 +120,12 @@ export default {
                 {
                     "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023.pdf)",
                     "author": "with Mindy Marks and Redina Tahaj",
-                    "journal": "resubmitted, *Labour Economics*"
+                    "journal": "conditional acceptance, *Labour Economics*"
                 },
                 {
-                    "title": "[Government Shutdown and SNAP Disbursements: Effects on Household Expenditures](/files/ungated-papers/working-papers/MPG_2023.pdf)",
+                    "title": "[Government Shutdown and SNAP Disbursements: Effects on Household Expenditures](https://doi.org/10.1007/s11150-024-09719-4)",
                     "author": "with Mindy Marks and Roy Gernhardt",
-                    "journal": "accepted, *Review of the Economics of the Household*"
+                    "journal": "*Review of the Economics of the Household*, 2024, https://doi.org/10.1007/s11150-024-09719-4, ([Ungated version](/files/ungated-papers/publications/MPG_2024.pdf))"
                 },
                 {
                     "title": "[Transitory Income Changes and Consumption Smoothing: Evidence from Mexico](https://www.sciencedirect.com/science/article/pii/S0047272723001950)",
