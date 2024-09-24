@@ -54,7 +54,7 @@ export default {
             "contents": [
                 {
                     "title": "[Passing the Message: Peer Outreach about COVID-19 Precautions in Zambia](https://doi.org/10.1016/j.jdeveco.2024.103318)",
-                    "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Dean Karlan, and Mario Macis",
+                    "author": "with Alfredo Burlando, Pradeep Chintagunta, Melissa Graboyes, Jessica Goldberg, Peter Hangoma, Dean Karlan, and Mario Macis",
                     "journal": "*Journal of Development Economics*, 2024, 171, 103318 ([Ungated version](/files/ungated-papers/publications/JDE_2024.pdf))"
                 },
                 {
