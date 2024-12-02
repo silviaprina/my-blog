@@ -6,7 +6,7 @@ export default {
                 {
                     "title": "[Too Fast Too Furious? Digital Credit Speed and Repayments Rates](/files/ungated-papers/working-papers/BKP_submitted_EJ.pdf)",
                     "author": "with Alfredo Burlando and Michael Khun",
-                    "journal": "revise and resubmit, *Journal of Development Economics*"
+                    "journal": "accepted, *Journal of Development Economics*"
                 },
                                 {
                     "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](https://doi.org/10.1093/oxrep/grad050)",
@@ -120,7 +120,7 @@ export default {
                 {
                     "title": "[Short-term Labor Supply Response to the Timing of Transfer Payments: Evidence from the SNAP Program](/files/ungated-papers/working-papers/MPT_2023.pdf)",
                     "author": "with Mindy Marks and Redina Tahaj",
-                    "journal": "conditional acceptance, *Labour Economics*"
+                    "journal": "forthcoming, *Labour Economics*"
                 },
                 {
                     "title": "[Government Shutdown and SNAP Disbursements: Effects on Household Expenditures](https://doi.org/10.1007/s11150-024-09719-4)",
