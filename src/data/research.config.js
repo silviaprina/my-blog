@@ -4,9 +4,9 @@ export default {
             "heading": "FINANCIAL ACCESS",
             "contents": [
                 {
-                    "title": "[Too Fast Too Furious? Digital Credit Speed and Repayments Rates](/files/ungated-papers/working-papers/BKP_submitted_EJ.pdf)",
+                    "title": "[Too Fast Too Furious? Digital Credit Speed and Repayments Rates](https://doi.org/10.1016/j.jdeveco.2024.103427)",
                     "author": "with Alfredo Burlando and Michael Khun",
-                    "journal": "accepted, *Journal of Development Economics*"
+                    "journal": "forthcoming, *Journal of Development Economics*, ([Ungated version](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf))"
                 },
                                 {
                     "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](https://doi.org/10.1093/oxrep/grad050)",
