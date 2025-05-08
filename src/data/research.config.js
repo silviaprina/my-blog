@@ -6,7 +6,8 @@ export default {
                 {
                     "title": "[Too Fast Too Furious? Digital Credit Speed and Repayments Rates](https://doi.org/10.1016/j.jdeveco.2024.103427)",
                     "author": "with Alfredo Burlando and Michael Khun",
-                    "journal": "*Journal of Development Economics*, 2025, 174(5) 103427 ([Ungated version](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf))"
+                    "journal": "*Journal of Development Economics*, 2025, 174(5) 103427 ([Ungated version](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf))
+                        ([VoxDev summary](https://voxdev.org/topic/finance/slowing-down-digital-loans-speed-repayment-evidence-mexico))([VoxDev talk](https://voxdev.org/topic/finance/faster-always-better-evidence-mexicos-digital-credit-market))"
                 },
                                 {
                     "title": "[The Role of Credit Reports in Digital Lending: A Case Study from Mexico](https://doi.org/10.1093/oxrep/grad050)",
