@@ -5,7 +5,8 @@ export default {
         Her research interests are centered on financial access, networks and spillover effects. 
         The bulk of her work uses field experiments and rigorous empirical methods to study the impact of financial access on the welfare and decision making of the poor. Her research highlights the role of networks and peers in shaping economic decisions and develops new empirical methods in this context.`,
 
-        `Professor Prina is Co-Editor of [Labour Economics](https://eale.nl/labour-economics/about-labour-economics), 
+        `Professor Prina is Co-Editor of [Labour Economics](https://eale.nl/labour-economics/about-labour-economics),
+        an Affiliate of the [Bureau for Research and Economic Analysis of Development (BREAD)](https://ibread.org),
         a Faculty Affiliate of the [Abdul Latif Jameel Poverty Action (J-PAL)](https://www.povertyactionlab.org), 
         a Research Fellow at the [Institute for the Study of Labor (IZA)](https://www.iza.org/people/fellows/7131/silvia-prina/), 
         a Research Affiliate at [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/node/2251), an Invited Researcher at [J-PAL](https://www.povertyactionlab.org) for the [Inclusive Financial Innovation Initiative](https://www.povertyactionlab.org/initiative/inclusive-financial-innovation-initiative), and a Faculty Scholar at the 
