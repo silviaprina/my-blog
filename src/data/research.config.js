@@ -152,7 +152,7 @@ export default {
                 },
                 {
                     "title": "Women Entrepreneurs Moving Up the Financial Ladder",
-                    "author": "with David Jaume"
+                    "author": "with David Jaume and Martin Tobal"
                 },
                 {
                     "title": "Digitalization of Informal Financial Flows and Networks",
