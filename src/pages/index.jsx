@@ -26,9 +26,7 @@ export default function Home() {
         <i className="fa fa-file-text pr-2 text-green-icon"></i>
         <a href="files/Silvia_Prina_CV.pdf">Curriculum Vitae</a>
 
-        <span>{' | '}</span>
-
-        <a href="files/Silvia_Prina_ResearchStatement.pdf">Research Statement</a>
+      
       </div>
 
       <div className="pt-2">
