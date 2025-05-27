@@ -138,21 +138,37 @@ export default {
                     "journal": "*American Economic Review P&P*, 2022, 112: 262-66 ([Ungated version](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf))"
                 },
             ],
-        },
+        },    
         {
             "heading": "WORKS IN PROGRESS",
             "contents": [
                 {
-                    "title": "A Second Chance at Financial Inclusion: The Impact of Repayment Plans and Incentives on Delinquent Digital Credit Borrowers",
-                    "author": "with Alfredo Burlando and Michael Khun"
+                    "title": "Rehabilitating Delinquent Digital Borrowers",
+                    "author": "with Alfredo Burlando, Michael Khun, and Brock Wilson"
                 },
                 {
                     "title": "Integrating Behavioral Data and Social Norms with Network Models for Policy Applications",
                     "author": "with Margherita Comola, Babak Heydari, Gabor Lippner, and Dan O'Brien"
                 },
                 {
+                    "title": "Women Entrepreneurs Moving Up the Financial Ladder",
+                    "author": "with David Jaume"
+                },
+                {
+                    "title": "Digitalization of Informal Financial Flows and Networks",
+                    "author": "with Margherita Comola and Matheus Sampaio"
+                },
+                {
+                    "title": "Does Choice Architecture Matter for Take-up and Use of Care Services?",
+                    "author": "with Mary Steffel and Ashley Whillans"
+                },
+                {
                     "title": "Long-Term Effects of Financial Education on Youth Financial Behavior: Evidence from Financial Diaries",
                     "author": "with Veronica Frisancho and Alejandro Herrera"
+                },
+                {
+                    "title": "Does School Choice Without Guaranteed Seats Drive Families to Flee?",
+                    "author": "with Mindy Marks and Roy Gernhardt"
                 },
                 {
                     "title": "Milking It for All It's Worth: Digital Credit and Payments in the Dairy Sector",
