@@ -4,6 +4,10 @@ export default {
             "heading": "FINANCIAL ACCESS",
             "contents": [
                 {
+                    "title": "[Rehabilitating Delinquent Digital Borrowers](/files/ungated-papers/working-papers/BKPW_delinquent_digital_borrowers.pdf))",
+                    "author": "with Alfredo Burlando, Michael Khun, and Brock Wilson, submitted"
+                },
+                {
                     "title": "[Too Fast Too Furious? Digital Credit Speed and Repayments Rates](https://doi.org/10.1016/j.jdeveco.2024.103427)",
                     "author": "with Alfredo Burlando and Michael Khun",
                     "journal": "*Journal of Development Economics*, 2025, 174, 103427 ([Ungated version](/files/ungated-papers/working-papers/BKP_OXREP_learning.pdf))([VoxDev summary](https://voxdev.org/topic/finance/slowing-down-digital-loans-speed-repayment-evidence-mexico))([VoxDev talk](https://voxdev.org/topic/finance/faster-always-better-evidence-mexicos-digital-credit-market))"
