@@ -148,21 +148,26 @@ export default {
             "heading": "WORKS IN PROGRESS",
             "contents": [
                 {
-                    "title": "Rehabilitating Delinquent Digital Borrowers",
-                    "author": "with Alfredo Burlando, Michael Khun, and Brock Wilson"
+                    "title": "Collection Strategies for Digital Credit: Effectiveness and Welfare",
+                    "author": "with Alfredo Burlando and Michael Khun"
                 },
+                {
+                    "title": "Catchment If You Can: Demographic Consequences of Mandatory School Choice",
+                    "author": "with Mindy Marks and Roy Gernhardt"
+                },  
                 {
                     "title": "Integrating Behavioral Data and Social Norms with Network Models for Policy Applications",
                     "author": "with Margherita Comola, Babak Heydari, Gabor Lippner, and Dan O'Brien"
+                },
+                 {
+                    "title": "Pix-Me-Up: The Digitalization of Informal Financial Links",
+                    "author": "with Margherita Comola and Matheus Sampaio"
                 },
                 {
                     "title": "Women Entrepreneurs Moving Up the Financial Ladder",
                     "author": "with David Jaume and Martin Tobal"
                 },
-                {
-                    "title": "Digitalization of Informal Financial Flows and Networks",
-                    "author": "with Margherita Comola and Matheus Sampaio"
-                },
+               
                 {
                     "title": "Does Choice Architecture Matter for Take-up and Use of Care Services?",
                     "author": "with Mary Steffel and Ashley Whillans"
@@ -170,10 +175,6 @@ export default {
                 {
                     "title": "Long-Term Effects of Financial Education on Youth Financial Behavior: Evidence from Financial Diaries",
                     "author": "with Veronica Frisancho and Alejandro Herrera"
-                },
-                {
-                    "title": "Does School Choice Without Guaranteed Seats Drive Families to Flee?",
-                    "author": "with Mindy Marks and Roy Gernhardt"
                 },
                 {
                     "title": "Milking It for All It's Worth: Digital Credit and Payments in the Dairy Sector",
