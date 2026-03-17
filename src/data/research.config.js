@@ -143,13 +143,13 @@ export default {
                     "journal": "*American Economic Review P&P*, 2022, 112: 262-66 ([Ungated version](/files/ungated-papers/publications/BPK_AER_P&P_2022.pdf))"
                 },
             ],
-        },    
+        },   
         {
             "heading": "WORKS IN PROGRESS",
             "contents": [
                 {
-                    "title": "Collection Strategies for Digital Credit: Effectiveness and Welfare",
-                    "author": "with Alfredo Burlando and Michael Khun"
+                    "title": "Borrowing and Repayment Dynamics after Repayment under a Second-Chance Policy for Delinquent Digital Borrowers",
+                    "author": "with Alfredo Burlando, Michael Khun, and Brock Wilson"
                 },
                 {
                     "title": "Catchment If You Can: Demographic Consequences of Mandatory School Choice",
@@ -160,14 +160,17 @@ export default {
                     "author": "with Margherita Comola, Babak Heydari, Gabor Lippner, and Dan O'Brien"
                 },
                  {
-                    "title": "Pix-Me-Up: The Digitalization of Informal Financial Links",
+                    "title": "Uncovering Informal Financial Flows: Evidence from Pix Digitalization in Brazil",
                     "author": "with Margherita Comola and Matheus Sampaio"
                 },
                 {
-                    "title": "Women Entrepreneurs Moving Up the Financial Ladder",
-                    "author": "with David Jaume and Martin Tobal"
+                    "title": "Microcredit as a Stepping Stone to Improved Financial Access?",
+                    "author": "with David Jaume, Martin Tobal, and and Evelyn Hernández"
                 },
-               
+               {
+                    "title": "Joint Liability versus Individual Incentives: Group Formation, Defaults, and Financial Trajectories in Microcredit",
+                    "author": "with Margherita Comola"
+                },
                 {
                     "title": "Does Choice Architecture Matter for Take-up and Use of Care Services?",
                     "author": "with Mary Steffel and Ashley Whillans"
