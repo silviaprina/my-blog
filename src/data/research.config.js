@@ -30,7 +30,7 @@ export default {
             "heading": "FINANCIAL ACCESS",
             "contents": [
                 {
-                    "title": "[Rehabilitating Delinquent Digital Borrowers](/files/ungated-papers/working-papers/BKPW_delinquent_digital_borrowers.pdf)",
+                    "title": "[From Default to Second Chances: Rehabilitating Delinquent Digital Borrowers](/files/ungated-papers/working-papers/BKPW_delinquent_digital_borrowers.pdf)",
                     "author": "with Alfredo Burlando, Michael Khun, and Brock Wilson, submitted"
                 },
                 {
