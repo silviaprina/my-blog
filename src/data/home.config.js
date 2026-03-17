@@ -10,7 +10,7 @@ export default {
         a Research Fellow at the [Institute for the Study of Labor (IZA)](https://www.iza.org/people/fellows/7131/silvia-prina/), 
         a Research Affiliate at [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/node/2251), an Invited Researcher at [J-PAL](https://www.povertyactionlab.org) for the [Inclusive Financial Innovation Initiative](https://www.povertyactionlab.org/initiative/inclusive-financial-innovation-initiative), and a Faculty Scholar at the 
         [Institute for Health Equity and Social Justice Research](https://bouve.northeastern.edu/institute-for-health-equity-and-social-justice-research/silvia-prina-bio/). 
-         
+        She is the Graduate Program Director of the [PhD in Applied Economics](https://cssh.northeastern.edu/economics/program/phd-in-applied-economics/). 
         She holds a PhD in Economics from Boston University. Prior to joining Northeastern in 2018, 
         Professor Prina held positions as Associate and Assistant Professor of Economics at Case Western Reserve University and as Research Scholar at the InterAmerican Development Bank.`
     ],
