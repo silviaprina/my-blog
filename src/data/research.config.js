@@ -172,22 +172,6 @@ export default {
                     "title": "Does Choice Architecture Matter for Take-up and Use of Care Services?",
                     "author": "with Mary Steffel and Ashley Whillans"
                 },
-                {
-                    "title": "Long-Term Effects of Financial Education on Youth Financial Behavior: Evidence from Financial Diaries",
-                    "author": "with Veronica Frisancho and Alejandro Herrera"
-                },
-                {
-                    "title": "Milking It for All It's Worth: Digital Credit and Payments in the Dairy Sector",
-                    "author": "with Alfredo Burlando and Jessica Goldberg"
-                },
-                {
-                    "title": "Incentives and Participation in Health Risk Assessments: Money Matters, But More Is Not Always Better",
-                    "author": "with Mariana Carrera"
-                },
-                {
-                    "title": "The Effect of Mobile Money on Adopters' Social Networks",
-                    "author": "with Alfredo Burlando and Cynthia Kinnan"
-                }
             ],
         },
         {
